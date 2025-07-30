@@ -1,1 +1,0 @@
-export function initSaveProject(fabricCanvas) {}

@@ -1,1 +1,0 @@
-export function saveZones(fabricCanvas) {}
